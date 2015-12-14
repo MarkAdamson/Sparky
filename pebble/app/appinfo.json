@@ -1,0 +1,52 @@
+{
+    "appKeys": {
+        "KEY_POWER": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Mark Adamson",
+    "longName": "Sparky",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/action_bar_icon_lamp.png",
+                "name": "IC_LAMP",
+                "type": "png"
+            },
+            {
+                "file": "images/action_bar_icon_power_on.png",
+                "name": "IC_POWER_ON",
+                "type": "png"
+            },
+            {
+                "file": "images/action_bar_icon_power_off.png",
+                "name": "IC_POWER_OFF",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_20",
+                "type": "font"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Sparky",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "84a8b619-db5a-4319-bd73-1333c9b32ff7",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
